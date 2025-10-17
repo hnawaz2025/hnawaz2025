@@ -3,7 +3,7 @@
 💡 Building AI systems that serve the public good
 
 ## 🚀 Featured Projects
--  [Telemetrics AI System](https://github.com/hnawaz2025/Telemetra)
+-  [Telemetra AI System](https://github.com/hnawaz2025/Telemetra)
    End-to-end ML system integrating real-time driving behavior, geospatial analytics, and dynamic pricing to enable fair, usage-based premiums.
 -  [Lottery Ticket Checker](https://github.com/hnawaz2025/LuckySnap)
    OCR-powered, Streamlit web app that lets users upload Powerball or Mega Millions tickets and instantly verifies results through live lottery APIs. Built with EasyOCR, Python, and REST API        integration.
