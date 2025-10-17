@@ -1,5 +1,5 @@
 ## Hi, I'm Hafsa Nawaz
-🎯 AI Developer @ Insurity | AI Solutions Analyst @ Concepta Innovation Services | Public Policy + Data Analytics (CMU)  
+🎯 Associate AI Developer @ Insurity | AI Solutions Analyst @ Concepta Innovation Services | Public Policy + Data Analytics (CMU)  
 💡 Building AI systems that serve the public good
 
 ## 🚀 Featured Projects
