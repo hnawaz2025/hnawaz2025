@@ -14,7 +14,6 @@
 
 ## 📊 What I Work With
 **AI/ML:** Python, LangChain, AutoGen, Scikit-Learn
-
 **Data:** Pandas, Spark, PostgreSQL, Tableau, ArcGIS  
 **Cloud/Dev:** Azure AI, Docker, Streamlit, Power Automate, Replit  
 **Focus:** AI Strategy • Responsible AI • Human-Centered Design
